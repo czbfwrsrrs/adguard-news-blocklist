@@ -16,23 +16,10 @@
 ||twitterinc.com^
 ||twitteroauth.com^
 ||twitterstat.us^
-! Title: Ultimate US & UK Media Filtering Blocklist
-! Description: Fully verified, consolidated right-leaning list with specific path filtering for BBC News/Politics.
-
-! ==============================================================================
-! --- THE BBC SPECIAL RULES (PATH ONLY) ---
-! ==============================================================================
-! These block BBC News & Politics specifically while allowing iPlayer/Weather/Sounds.
 ||bbc.co.uk/news^
 ||bbc.com/news^
 ||bbc.co.uk/news/politics^
 ||bbc.com/news/politics^
-
-! ==============================================================================
-! --- UNITED STATES MEDIA ---
-! ==============================================================================
-
-! --- Major US Television, Print & Tabloids ---
 ||foxnews.com^
 ||foxbusiness.com^
 ||newsmax.com^
@@ -40,8 +27,6 @@
 ||nypost.com^
 ||washingtontimes.com^
 ||washingtonexaminer.com^
-
-! --- US Political Commentary, Magazines & Blogs ---
 ||dailywire.com^
 ||breitbart.com^
 ||dailycaller.com^
@@ -60,8 +45,6 @@
 ||theamericanconservative.com^
 ||freebeacon.com^
 ||conservativereview.com^
-
-! --- US Alternative, Populist & Far-Right Outlets ---
 ||infowars.com^
 ||banned.video^
 ||theepochtimes.com^
@@ -69,12 +52,6 @@
 ||rumble.com^
 ||zerohedge.com^
 ||revolver.news^
-
-! ==============================================================================
-! --- UNITED KINGDOM MEDIA ---
-! ==============================================================================
-
-! --- Mainstream UK Tabloids, Broadsheets & Magazines ---
 ||dailymail.co.uk^
 ||dailymail.com^
 ||mailonsunday.co.uk^
@@ -85,13 +62,9 @@
 ||thetimes.co.uk^
 ||thesundaytimes.co.uk^
 ||cityam.com^
-
-! --- UK Broadcasters & Video Networks ---
 ||gbnews.com^
 ||talk.tv^
 ||talk.radio^
-
-! --- UK Political Blogs & Grassroots Platforms ---
 ||order-order.com^
 ||guidofawkes.com^
 ||conservativehome.com^
@@ -102,8 +75,6 @@
 ||spiked-online.com^
 ||bournbrookmag.co.uk^
 ||brugesgroup.com^
-
-! --- UK Alternative, Populist & Far-Right Outlets ---
 ||thelightpaper.co.uk^
 ||lotuseaters.com^
 ||politicalite.com^
